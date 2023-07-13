@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://arpotx.github.io/](https://arpotx.github.io/)
 
-- 📝 I regularly write articles on [https://arpotx.github.io/ and https://discord.gg/gsvrSnWZkW](https://arpotx.github.io/ and https://discord.gg/gsvrSnWZkW)
+- 📝 I regularly write articles on [https://arpotx.github.io/ and https://discord.gg/gsvrSnWZkW]
 
 - 💬 Ask me about **iOS JailBreaking, and game development**
 
