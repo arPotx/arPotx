@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm arPotx</h1>
 <h3 align="center">A passionate game developer from Germany</h3>
 
-- 🔭 I’m currently working on [EscapePoly](https://discord.gg/gsvrSnWZkW)
+- 🔭 I’m currently working on [EscapePoly](https://arpotx.github.io/)
 
 - 🌱 I’m currently learning **C#, JS, HTML**
 
