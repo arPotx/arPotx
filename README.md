@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on EscapePoly<br>🌱 I’m currently learning C#, JS, HTML<br>👨‍💻 All of my projects are available at https://arpotx.github.io/<br>📝 I regularly write articles on [https://arpotx.github.io/ and https://discord.gg/gsvrSnWZkW]<br>💬 Ask me about iOS JailBreaking, and game development<br>📫 How to reach me shark.info24@gmail.com<br>📄 Know about my experiences https://arpotx.github.io/<br>⚡ Fun fact I play CS:GO
+🔭 I’m currently working on EscapePoly<br>🌱 I’m currently learning C#, HTML<br>👨‍💻 All of my projects are available at https://arpotx.github.io/<br>📝 I regularly write articles on [https://arpotx.github.io/ and https://discord.gg/gsvrSnWZkW]<br>💬 Ask me about iOS JailBreaking, and game development<br>📫 How to reach me shark.info24@gmail.com<br>📄 Know about my experiences https://arpotx.github.io/<br>⚡ Fun fact I play Call of Duty ;)
 
 
 ## 🌐 Socials:
