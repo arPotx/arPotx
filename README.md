@@ -20,7 +20,7 @@ I'm an Student🎓. I'm very interessed in **Tech & Cyber Security 💻** and le
 - 🌱 I’m currently learning **ethical hacking, game and web development with C#, HTML, CSS and JS**
   <img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy working/learning on
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy working / learning on
   - 🛠 Ethical Hacking
   - 📊 Machine Learning
   - 🖼  Computer Vision
