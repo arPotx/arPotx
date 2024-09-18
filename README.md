@@ -9,7 +9,7 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/arPotx/)](https://github.com/arPotx/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shark.info24@gmail.com)](mailto:shark.info24@gmail.com)
 
-### A little about me... <img src="media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="50">
+### A little about me... <img src="media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="60">
 
 I'm an Student🎓. I'm very interessed in **Tech & Cyber Security 💻** and learning and working with new tech. I love working with interesting and amazing hacking stuff (for learning purposes of course).<br/><br/>
 [![](https://visitcount.itsvg.in/api?id=arPotx&icon=7&color=1)](https://arpotx.github.io)
