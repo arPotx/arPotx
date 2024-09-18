@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some Games<br>🌱 I’m currently learning C#, HTML<br>👨‍💻 All of my projects are available at https://arpotx.github.io/<br>📝 I regularly write articles on [https://arpotx.github.io/ and https://discord.gg/gsvrSnWZkW]<br>💬 Feel free to ask me about iOS JailBreaking, and game development<br>📫 How to reach me shark.info24@gmail.com<br>
+🔭 I’m currently learning some stuff like hacking, game development and web development<br>🌱 I’m learning C#, HTML, CSS and JS<br>👨‍💻 All of my projects are available at https://arpotx.github.io/<br>📝 I regularly write articles on [https://arpotx.github.io/ and https://discord.gg/gsvrSnWZkW]<br>💬 Feel free to ask me about iOS JailBreaking, hacking, and game development<br>📫 How to reach me shark.info24@gmail.com<br>
 
 
 ## 🌐 Socials:
