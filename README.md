@@ -35,7 +35,7 @@ I'm an Student🎓. I'm very interessed in **Tech & Cyber Security 💻** and le
   <summary>Some more stuff 😄</summary>
   
 ### 🖥️ My Setup
-<img src="https://img.shields.io/badge/NZXT-555555.svg?&style=flat-square&logo=NZXT&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Brave-555555.svg?&style=flat-square&logo=brave&logoColor=9F3130"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="img.shields.io/badge/VMware-555555.svg?&style=flat-square&logo=vmware&logoColor=29B6F6"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
+<img src="https://img.shields.io/badge/NZXT-555555.svg?&style=flat-square&logo=NZXT&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Brave-555555.svg?&style=flat-square&logo=brave&logoColor=9F3130"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/VMware-555555.svg?&style=flat-square&logo=vmware&logoColor=29B6F6"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
 
 ### ⚙️ Some Tool and Tech I use
 
