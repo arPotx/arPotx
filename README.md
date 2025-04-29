@@ -3,7 +3,7 @@
 
 ### 📬 Find me at
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/gsvrSnWZkW)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/3dPdKwXBbg)
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/arPotx)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arPotx) 
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/arPotx/)](https://github.com/arPotx/)
@@ -11,45 +11,29 @@
 
 ### A little about me... <img src="media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="50">
 
-I'm an Student🎓. I'm very interessed in **Tech & Cyber Security 💻** and learning and working with new tech. I love working with interesting and amazing hacking stuff (for learning purposes of course).<br/><br/>
+I'm an Student🎓. I'm very interessed in **Tech & Cyber Security 💻** and love geography and the universe. I also love gaming like Counter Strike 2 and Escape from Tarkov<br/><br/>
 [![](https://visitcount.itsvg.in/api?id=arPotx&icon=7&color=1)](https://arpotx.github.io)
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working on nothing :)
-- 🌱 I’m currently learning **ethical hacking, game and web development with C#, HTML, CSS and JS**
+- 🔭 I’m currently working on 'Data Ghost' my horror game :)
+- 🌱 I’m currently learning **game and web development with C#, HTML, CSS and JS**
   <img width="490" height="300" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" align=right>
 
-- <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="30"> I enjoy working / learning on
+- <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="30"> I enjoy learning on
   - 🛠 Ethical Hacking
-  - 📊 Machine Learning
-  - 🖼  Computer Vision
   - 🤖 AI
+  - 🌍 Geography
+  - 🌌 Universe
 - 📝 I regularly write articles on [Portfolio](https://arpotx.github.io)
-- 🤔 I’m looking for mates in Cod: Warzone and Tarkov / Arena
-- 💬 Ask me about iOS Jailbreaking, hacking, game and web development.
-- 📙 Check out my [Portfolio](https://arpotx.github.io/)
-- 🎉 Fun-Fact: I ❤️ Listening to Music 🚀 | Watching Movies 🎬 |  Playing Games 🎮 | 
+- 💬 Feel free to ask me about coding if you need help.
+- 🎉 Fun-Fact: I ❤️ Listening to Music 🚀 | Watching Movies 🎬 |
 
 <details>
   <summary>Some more stuff 😄</summary>
   
 ### 🖥️ My Setup
-<img src="https://img.shields.io/badge/NZXT-555555.svg?&style=flat-square&logo=NZXT&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Brave-555555.svg?&style=flat-square&logo=brave&logoColor=9F3130"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/VMware-555555.svg?&style=flat-square&logo=vmware&logoColor=29B6F6"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760">
-
-### ⚙️ Some Tool and Tech I use
-
-<code><img height="30" src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/2352090?s=200&v=4"></code>
-<code><img height="30" src="https://avatars2.githubusercontent.com/u/1728152?s=200&v=4"></code>
-
+<img src="https://img.shields.io/badge/Windows-80B3FF?logo=akamai&logoColor=fff&style=flat"> <img src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=fff&style=flat"> <img src="https://img.shields.io/badge/Cursor-000?logo=codio&logoColor=fff&style=flat"> <img src="https://img.shields.io/badge/VMware-555555.svg?&style=flat-square&logo=vmware&logoColor=29B6F6"> <img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=fff&style=flat">
 </details>
 
 ### 🚀 Quick Stats
