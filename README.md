@@ -10,7 +10,7 @@
 
 ### A little about me... <img src="media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="50">
 
-I'm an Student🎓. I'm very interessed in **Tech & Cyber Security 💻** and love geography and the universe. I also love gaming like Counter Strike 2 and Escape from Tarkov<br/><br/>
+I'm very interessed in **Tech & Cyber Security 💻** and love geography and the universe. I also love gaming like Counter Strike 2 and Escape from Tarkov<br/><br/>
 [![](https://visitcount.itsvg.in/api?id=arPotx&icon=7&color=1)](https://arpotx.netlify.app)
 
 ## ⚡️ A Few Quick Facts
