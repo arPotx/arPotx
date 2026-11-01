@@ -1,55 +1,28 @@
-<h1>🤙Hey, I am <a href="https://arpotx.netlify.app">arPotx</a></h1>
-</h1>
+<h1 align="center">Hi 👋, I'm arPotx</h1>
+<h3 align="center">An apprentice software developer for a software company</h3>
 
-### 📬 Find me at
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpotx&label=Profile%20views&color=353f46&style=flat" alt="arpotx" /> </p>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/3dPdKwXBbg)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/arPotx)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arPotx)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shark.info24@gmail.com)](mailto:shark.info24@gmail.com)
+- 🔭 I’m currently working on **some small projects**
 
-### A little about me... <img src="media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="50">
+- 🌱 I’m currently learning **C#, Java, HTML, CSS and JS**
 
-I'm very interessed in **Tech & Cyber Security 💻** and love geography and the universe. I also love gaming like Counter Strike 2 and Escape from Tarkov<br/><br/>
-[![](https://visitcount.itsvg.in/api?id=arPotx&icon=7&color=1)](https://arpotx.netlify.app)
+- 👨‍💻 All of my projects are available at [https://arpotx.netlify.app/](https://arpotx.netlify.app/)
 
-## ⚡️ A Few Quick Facts
+- 💬 Ask me about **everything with coding**
 
-- 🔭 I’m currently working on some little projects
-- 🌱 I’m currently learning **web development with HTML, CSS and JS**
-  <img width="490" height="300" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" align=right>
+- 📫 How to reach me **shark.info24@gmail.com / or website**
 
-- <img src="https://media.giphy.com/media/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="30"> I enjoy learning on
-  - 🛠 Coding
-  - 🤖 AI
-  - 🌍 Geography
-  - 🌌 Universe
-- 📝 I regularly write articles on [Portfolio](https://arpotx.netlify.app)
-- 💬 You can requets website under my portfolio under “contact”
-- 🎉 Fun-Fact: I ❤️ Listening to Music while coding 
+- ⚡ Fun fact **I would die for a Döner (Kebab)**
 
-<details>
-  <summary>Some more stuff 😄</summary>
-  
-### 🖥️ My Setup
-<img src="https://img.shields.io/badge/Windows-80B3FF?logo=akamai&logoColor=fff&style=flat"> <img src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=fff&style=flat"> <img src="https://img.shields.io/badge/Visual_Studio_Code-80B3FF?&style=flat"><img src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=fff&style=flat">
-</details>
-
-### 🚀 Quick Stats
-
-<p align="center">
-<br>
-
-<a href="https://github.com/arPotx">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arPotx&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="arPotx GitHub Stats 1" />
-</a>
-
-<a href="https://github.com/arPotx">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=arPotx&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="arPotx GitHub Stats 2" />
-</a>
-
-<br>
-<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/gsvrSnWZkW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="gsvrSnWZkW" height="30" width="40" /></a>
+<a href="/https://arpotx.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://arpotx.netlify.app/" height="30" width="40" /></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arPotx&theme=onedark)](https://github.com/arPotx)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/arpotx"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arpotx" /></a></p><br><br>
