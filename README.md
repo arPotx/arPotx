@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpotx&label=Profile%20views&color=353f46&style=flat" alt="arpotx" /> </p>
 
 - 🔭 I’m currently working on **some small projects**
+  
+- 🤝 Open to projects and collaborations.
 
 - 🌱 I’m currently learning **C#, Java, HTML, CSS and JS**
 
